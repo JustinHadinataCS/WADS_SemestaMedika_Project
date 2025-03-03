@@ -1,0 +1,3 @@
+[submodule "WADS_Backend"]
+	path = WADS_Backend
+	url = https://github.com/JustinHadinataCS/WADS_Backend.git
